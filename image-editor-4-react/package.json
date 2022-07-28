@@ -1,0 +1,42 @@
+{
+  "name": "image-editor-4-react",
+  "version": "1.0",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.4",
+    "@chakra-ui/react": "1.6.9",
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "@toast-ui/react-image-editor": "^3.15.2",
+    "boxicons": "^2.1.2",
+    "eslint": "^8.20.0",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^3.1.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-color-palette": "^6.2.0",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
